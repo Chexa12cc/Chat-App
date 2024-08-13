@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="gemini_icon">Gemini Icon</string>
+    <string name="gemini_chat">Gemini Chat</string>
+    <string name="text_field_placeholder">Enter prompt to search</string>
+    <string name="button_icon">Send Icon</string>
+    <string name="welcome_gemini_text">Gemini AI Chat</string>
+</resources>
